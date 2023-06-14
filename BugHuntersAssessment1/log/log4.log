@@ -1,0 +1,12 @@
+14/06/2023 03:57:40  INFO  - edge is opened.
+14/06/2023 03:57:44  INFO  - Scenario 4 Started
+14/06/2023 03:57:47  INFO  - Signin
+14/06/2023 03:57:53  INFO  - Cart is opened
+14/06/2023 03:57:53  INFO  - Name validation successfull
+14/06/2023 03:57:54  INFO  - Price validation successfull
+14/06/2023 03:57:54  INFO  - Quantity updated
+14/06/2023 03:57:54  INFO  - Details are validated
+14/06/2023 03:57:54  INFO  - Details are validated
+14/06/2023 03:57:54  INFO  - Logout
+14/06/2023 03:57:56  INFO  - Logout successful
+14/06/2023 03:57:57  INFO  - Browser is Closed.

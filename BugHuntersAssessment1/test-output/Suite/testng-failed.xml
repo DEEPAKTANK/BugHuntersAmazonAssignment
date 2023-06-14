@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="Browser" value="edge"/>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Kairos.Hunters.TestCases.TestScenario4">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="logOut"/>
+          <include name="openAmazon"/>
+          <include name="viewAndEditCart"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- Kairos.Hunters.TestCases.TestScenario4 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
